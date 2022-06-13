@@ -1,0 +1,53 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+.partners{
+   text-align: center;
+   margin-top: 10px;
+   font-weight: 650;
+   color:red;
+}
+.our{
+    color:black;
+    padding-right: 5px;
+}
+ .mybtn a{
+     text-decoration: none;
+     color: white;
+     font-weight: 600;
+     
+ }
+
+.mybtn a{
+    width: 50%;
+    padding: 7px 30px;
+    text-align: center;
+    background-color: rgb(216, 63, 63);
+    border-radius: 5px;
+    
+    
+}
+
+.mybtn a:hover{
+    background-color: rgb(119, 118, 118);
+    color: white;
+   
+}
+.cus-shadow{
+    box-shadow: 2px 2px 5px 0px rgb(240, 238, 238);
+    border: none;
+    padding: 20px 20px;
+    transition: all 0.3s;
+    text-align: center;
+    
+}
+
+.cus-shadow:hover{
+    transform: scale(1.07);
+    transition: all 0.3s;
+
+    
+}
